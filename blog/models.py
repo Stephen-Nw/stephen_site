@@ -1,7 +1,6 @@
 from datetime import date
 from distutils.command.upload import upload
 import email
-from tkinter import CASCADE
 from django.db import models
 from django.core.validators import MinLengthValidator
 
